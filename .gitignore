@@ -1,0 +1,9 @@
+# Secrets locales (nunca commitear)
+appsettings.Development.json
+appsettings.*.Local.json
+
+# Básicos
+bin/
+obj/
+*.user
+.vs/
